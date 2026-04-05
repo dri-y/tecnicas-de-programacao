@@ -1,3 +1,3 @@
 # tecnicas-de-programacao
 
-#questões resolvidas de 1 até a 4
+questões resolvidas de 1 até a 4
