@@ -1,3 +1,9 @@
 # tecnicas-de-programacao
 
-questões resolvidas 
+questões resolvidas de:
+-funções
+-arrays
+-structs
+-ponteiros
+-vector
+
