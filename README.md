@@ -2,7 +2,6 @@
 
 questões resolvidas de:
 -funções
--arrays
 -structs
 -ponteiros
 -vector
